@@ -1,3 +1,8 @@
-<h1 align="center">Привет! Я mrasdaf</h1>
+<h1 align="center">Привет! Я mrasdaf <img src="https://mrasdaf.github.io/img/logo.png" height="30"></h1>
 <p align="center">Люблю python и простенькие но прикольные программы.</p>
-<p>Может быть я еще и не умею красиво оформлять код, но я написал программу <a href="https://github.com/mrasdaf/PassGenerator">PassGenerator</a> с как по мне неплохим функционалом. Можешь сам оценить</p>
+<p align="center">Я пользуюсь Windows и люблю виртуальные машины </p>
+<p align="center">
+  Можешь глянуть мои проекты:
+  <a href="https://github.com/mrasdaf/PassGenerator">PassGenerator</a>
+</p>
+<p align="center">И заглянуть <a href="http://mrasdaf.github.io">сюда</a></p>
